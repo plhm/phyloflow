@@ -1,2 +1,2 @@
 # phyloflow
-Phylogenetic and gene flow analyses of a small good looking anole.
+This GitHub repository will take you through some phylogenetic and gene flow analyses I performed on a small and arguably good looking anole.
